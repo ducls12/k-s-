@@ -1,7 +1,7 @@
 #@title Trình Tạo Chữ Ký Số Cho Tài Liệu
 # Cấu hình ngrok với token của bạn
 # Thay 'YOUR_NGROK_AUTH_TOKEN' bằng token ngrok thực tế của bạn
-NGROK_AUTH_TOKEN = "2vQiHuSkEACuMQdfLaOTROncorU_3gmW5HFXANyHBHUfm2ufF" #<-- THAY TOKEN CỦA BẠN VÀO ĐÂY
+NGROK_AUTH_TOKEN = "2vQiHuSkEACuMQdfLaOTROncorU_3gmW5HFXANyHBHUfm2ufF" 
 conf.get_default().auth_token = NGROK_AUTH_TOKEN
 
 # Bước 1: Cài đặt các thư viện cần thiết
